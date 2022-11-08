@@ -1,0 +1,82 @@
+html{
+    font-size: 18px;
+}
+
+/* body {
+    background:url("http://127.0.0.1:5500/img/taci%20and%20%20a%20drink.png");
+} */
+body {
+    background:rgba(204,229,255, 0.4);
+    text-align: justify;
+}
+
+/* #service-image {
+    height: 307px;
+    width:164%;
+
+
+    background: url("http://127.0.0.1:5500/img/taci%20and%20%20a%20drink.png");
+    background-size:cover;
+    background-color: steelblue;
+} */
+#service-image {
+    height: 400px;
+    width:50%;
+    background:radial-gradient(circle, red 20%, green 40%, blue 55%)
+   
+   
+}
+/* 
+h2:hover{
+    color: blue;
+} */
+
+
+
+table,tr,th,td,caption{
+    border: 1px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+/* 
+li:first-child{
+    color: steelblue;
+} */
+
+/* a:link{
+    color: blue;
+}
+
+a:visited{
+    color: red;
+} */
+/* 
+h2 + a{
+    color: red;
+} */
+
+/* textarea + button {
+    color: purple;
+} */
+/* 
+ul > li {
+    color:green;
+} */
+/* 
+ul li{
+    color:pink;
+} */
+/* 
+img[src*="img/"] {
+    border: 10px solid black;
+} */
+
+#tittle {
+    color: rgb(186, 133, 9);
+}
+
+.subtittle {
+    color: rgb(200,168,30);
+}
+
